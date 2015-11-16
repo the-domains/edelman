@@ -1,7 +1,7 @@
 name: Edelman
 favicon: null
-layout_spectrum: 0.32165220472961664
-typography_spectrum: 0.8278427815530449
+layout_spectrum: 0.72475
+typography_spectrum: 0.53671
 title: Edelman
 cta:
   domain: null
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fdfdfd'
+    - '#aea199'
+    - '#3e3936'
+    - '#a8475b'
+    - '#0159bd'
   brandStrength: 0.8125341644044966
   lightness: 0.08425027341581881
   saturation: 0.4977404596284032
