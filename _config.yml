@@ -1,0 +1,23 @@
+name: Edelman
+favicon: null
+layout_spectrum: 0.32165220472961664
+typography_spectrum: 0.8278427815530449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8125341644044966
+  lightness: 0.08425027341581881
+  saturation: 0.4977404596284032
+  rhythmicContrast: 0.937886830419302
+purpose: []
