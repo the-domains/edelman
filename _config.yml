@@ -2,6 +2,7 @@ name: Edelman
 favicon: null
 layout_spectrum: 0.32165220472961664
 typography_spectrum: 0.8278427815530449
+title: Edelman
 cta:
   domain: null
   bucket: null
